@@ -1,5 +1,8 @@
 # basic-Smart-Contract
 
+The repo contains artifacts folder containing basic Solidity lang code files(.sol) especially for beginners just starting out with smart contracts and blockchains in general.
+Each file contains appropriate comments and links touching down on concepts in depth.
+
 ## Getting Started
 
 1. Go to [Remix](https://remix.ethereum.org/)

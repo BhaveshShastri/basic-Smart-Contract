@@ -14,4 +14,4 @@ For a more in depth blog on working with remix, [read here](https://docs.chain.l
 
 # Thank you!
 
-### Source : https://github.com/PatrickAlphaC/simple-storage-fcc
+### Special thanks to [Patrick Collins](https://github.com/PatrickAlphaC/) for sharing his knowledge.
